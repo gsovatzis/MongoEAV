@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoEAV", "MongoEAV\MongoEAV.csproj", "{00C78A91-698F-4E5B-961E-E90EB7652A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C78A91-698F-4E5B-961E-E90EB7652A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C78A91-698F-4E5B-961E-E90EB7652A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C78A91-698F-4E5B-961E-E90EB7652A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C78A91-698F-4E5B-961E-E90EB7652A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798A458B-9755-462A-B663-6C52A17FAA74}
+	EndGlobalSection
+EndGlobal
